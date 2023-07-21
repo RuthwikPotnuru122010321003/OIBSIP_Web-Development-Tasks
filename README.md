@@ -20,3 +20,11 @@ This portfolio design is a clean and modern layout built using HTML and CSS. The
 ![image](https://github.com/RuthwikPotnuru122010321003/OIBSIP_Web-Development-Tasks/assets/91137600/e80ed4b7-6bee-4119-9f86-22320a3504e9)
 ![image](https://github.com/RuthwikPotnuru122010321003/OIBSIP_Web-Development-Tasks/assets/91137600/49d3512c-1d02-43d5-ac46-497ecd848df2)
 
+
+#Task 3: Temperature Converter
+
+Description:-
+
+The temperature converter is a web application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. It features a stylish interface with input fields for entering the temperature and selecting the unit of measurement. After clicking the "Convert" button, the converted temperature is displayed dynamically. The page also includes a real-time date display. Overall, it provides a user-friendly experience for temperature conversions. Additionally, the web page features a date section located below the conversion result. The date section has a distinct background color and includes a button labeled "Date." When the "Date" button is clicked, the current date is displayed within the button. This functionality is implemented using JavaScript, which continuously updates the date in real-time. Finally, the web page has a footer section displayed at the bottom. It contains a copyright notice and attribution text, acknowledging the creator of the temperature converter. Overall, the temperature converter web page offers a visually pleasing and user-friendly interface for performing temperature conversions, displaying results, and providing real-time date information.
+
+![image](https://github.com/RuthwikPotnuru122010321003/OIBSIP_Web-Development-Tasks/assets/91137600/c821ed86-e14d-4ac7-9b83-aa512ce4fe17)
