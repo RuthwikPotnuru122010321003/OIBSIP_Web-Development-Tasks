@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Temperature Converter</title>
+  <link rel="stylesheet" type="text/css" href="temp.css">
+</head>
+<body>
+  <header>
+    <h1>Temperature Converter</h1>
+  </header>
+  <main>
+    <div class="container">
+      <div class="input-section">
+        <label for="temperature">Temperature:</label>
+        <input type="text" id="temperature" placeholder="Enter temperature" required>
+      </div>
+      <div class="input-section">
+        <label for="unit1">Unit from:</label>
+        <select id="unit1">
+          <option value="celsius">Celsius</option>
+          <option value="fahrenheit">Fahrenheit</option>
+          <option value="kelvin">Kelvin</option>
+        </select>
+      </div>
+      <div class="input-section">
+        <label for="unit2">Unit to:</label>
+        <select id="unit2">
+          <option value="celsius">Celsius</option>
+          <option value="fahrenheit">Fahrenheit</option>
+          <option value="kelvin">Kelvin</option>
+        </select>
+      </div>
+      <button id="convertBtn" class="button">Convert</button>
+      <div id="resultSection" class="result-section">
+        <button id="result" class="button" disabled>Conversion Result</button>
+      </div>
+    </div>
+    <div id="dateSection" class="date-section">
+      <button id="dateTimeBtn" class="button"></button>
+    </div>
+  </main>
+  <footer>
+    <b>© 2023 - Ruthwik Potnuru</b>
+  </footer>
+  <script src="temp.js"></script>
+</body>
+</html>
